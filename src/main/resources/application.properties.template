@@ -1,0 +1,5 @@
+db.url=jdbc:postgresql://localhost:5432/DB_NAME
+db.username=YOUR_USERNAME
+db.password=YOUR_PASSWORD
+
+driver=YOUR DRIVER
