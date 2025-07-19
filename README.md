@@ -18,7 +18,7 @@ The project uses **PostgreSQL** as the database management system, providing rob
 
 Database diagram:
 
-<img width="500" alt="Описание" src="https://github.com/user-attachments/assets/bfe02992-34ac-4808-ad18-7e85ea8c46a1" />
+<img width="500" alt="Описание" src="https://github.com/user-attachments/assets/bd87d801-1648-4907-a885-4267006dd8c9" />
 
 2. **REST API endpoints:**
 
